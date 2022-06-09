@@ -1,0 +1,32 @@
+---
+layout: post
+title:  2022-06-08 Liquidity declines, US import drops
+date:   2022-06-08 00:33:04 -0400
+categories: market watch
+---
+US Liquidity: liquidity deteriorates as a result of a growth slowdown, rising interest rates and high inflation. Banks are less willing to hold capital, especially instruments that are more vulnerable to rising interest rates. 
+Stagflation: Global growth is expected to slump to 2.9% in 2022 from 5.7% in 2021. 
+
+US Import: Rising inventory and falling imports. Container imports drop 36% since May 24. Shocks to global supply chain, companies prefer to secure inventory from domestic producers. Consumers: credit spending accelerates. 
+
+Energy: China and other countries boosted coal production arising rising oil prices. High price of natural gas also drive up price of fertilizer. 
+
+Distressed sovereign debt: Number of sovereign bonds trading below 60% face value tripled to 120 from 41. Cause: rising food and energy prices. Investors think bottom is already in sight when government asks for debt relief, bet IMF will be more flexible with debt management policies and buy distressed debt.
+
+Semiconductor: Taiwan Semiconductor Manufacturing Company expects revenue to grow about 30% in 2022, signaling resilient demand for electronics.   
+
+German Auto: German April industrial production rose 0.7% month-over-month. Motor vehicle production rose 9.3% M/M but remains 43% below pre-Covid level.
+
+美国流动性：由于增长放缓、利率上升和高通胀导致流动性恶化。银行不太愿意持有资本，尤其是更容易受到利率上升影响的工具。
+
+滞胀：全球增长预计将从 2021 年的 5.7% 下滑至 2022 年的 2.9%。
+
+美国进口：库存上升，进口下降。自 5 月 24 日以来，集装箱进口下降了 36%。全球供应链受到冲击，企业更愿意从国内生产商那里获得库存。消费者：信贷支出加速。
+
+能源：中国等国家因油价上涨提振煤炭产量。天然气价格高企也推高了化肥价格。
+
+不良主权债务：交易面值低于 60% 的主权债券数量从 41 只增至 120 只，增加了两倍。原因：食品和能源价格上涨。投资者认为，当政府要求减免债务时，底部已经在望，押注国际货币基金组织将在债务管理政策上更加灵活，并购买不良债务。
+
+半导体：台积电预计 2022 年收入将增长 30% 左右，表明电子产品需求强劲。
+
+德国汽车：德国 4 月工业生产环比增长 0.7%。机动车产量环比增长 9.3%，但仍比疫情前水平低 43%。
